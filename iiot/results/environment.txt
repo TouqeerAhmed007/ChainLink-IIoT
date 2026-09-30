@@ -1,0 +1,5 @@
+cpu: Intel64 Family 6 Model 154 Stepping 4, GenuineIntel
+cores: 12
+os: Windows-11-10.0.26200-SP0
+python: 3.12.3
+packages: fastapi==0.141.1, uvicorn==0.54.0, httpx==0.28.1, cryptography==50.0.1, pydantic==2.13.5, numpy==2.5.3, matplotlib==3.11.2

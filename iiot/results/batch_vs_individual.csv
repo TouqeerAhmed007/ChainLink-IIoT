@@ -1,0 +1,7 @@
+n_devices,mode,runs,total_ms_mean,total_ms_std,root_updates,registry_blocks,stale_proofs_final,stale_proof_events,amortized_ms_per_device_mean,amortized_ms_per_device_std
+5,individual,3,0.086900,0.022408,5,6,4,10,0.017380,0.004482
+5,batch,3,0.024033,0.001626,1,2,0,0,0.004807,0.000325
+10,individual,3,0.210000,0.013028,10,11,9,45,0.021000,0.001303
+10,batch,3,0.052633,0.023788,1,2,0,0,0.005263,0.002379
+25,individual,3,0.914733,0.189742,25,26,24,300,0.036589,0.007590
+25,batch,3,0.075967,0.006170,1,2,0,0,0.003039,0.000247
